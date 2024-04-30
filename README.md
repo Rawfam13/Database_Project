@@ -1,5 +1,5 @@
 # Grocery Store Management Database
-###### Created by Andrew Goss(001043951), Tanner Smith(), Hayden Rawlings()
+###### Created by Andrew Goss(001043951), Tanner Smith(), Hayden Rawlings(001029311)
 
 ## The Main Objective
 The main objective of this project was to utilize an relational database schema, Java, and a Java GUI to make a 
